@@ -10,6 +10,8 @@ And I also added the web browser via the Visual Designer toolbox in the User Con
 
 You will need to change the labels/names in the ribbon, user control, button and in the customtaskpane.add function in the ThisAddIn Class to whatever fits your requirements.
 
-If you have any problems with this example, feel free to open uip an issue against this GitHub and I'll reach out to respond as quickly as possible. 
+That being said, please don't try modifying the code for the visual items. Utilize the Visual Designer to change the values otherwise there may be some issues deploying the Add-In.
+
+If you have any problems with this example, feel free to open up an issue against this GitHub and I'll reach out to respond as quickly as possible. 
 
 Note: This is not a Microsoft Supported Github Repository. 
