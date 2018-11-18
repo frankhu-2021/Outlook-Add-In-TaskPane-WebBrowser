@@ -17,7 +17,7 @@ namespace OutlookAddIn1
         {
             taskPaneControl1 = new TaskPaneControl();
             taskPaneValue = this.CustomTaskPanes.Add(
-                taskPaneControl1, "I Swarmed!");
+                taskPaneControl1, "<My-Task-Pane-Name>");
             taskPaneValue.VisibleChanged +=
                 new EventHandler(taskPaneValue_VisibleChanged);
 
