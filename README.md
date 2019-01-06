@@ -14,4 +14,5 @@ That being said, please don't try modifying the code for the visual items. Utili
 
 If you have any problems with this example, feel free to open up an issue against this GitHub and I'll reach out to respond as quickly as possible. 
 
-Note: This is not a Microsoft Supported Github Repository. 
+# Support
+This is not a Microsoft Supported Github Repository. There are no plans on future support, but if there are any issues feel free to open the an issue against this repo and I will respond back as soon as possible.
